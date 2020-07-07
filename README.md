@@ -1,4 +1,4 @@
-# exbot
+# ExBot
 Uma Plataforma de Negociação Algorítmica para Mercados de Criptografia
 
 Estamos constantemente desenvolvendo e testando estratégias de negociação quantitativas que são altamente escaláveis. Ao compartilhar esses sistemas com os nossos usuários, acreditamos que veremos resultados na maior eficiência e rentabilidade do mercado.
