@@ -19,8 +19,13 @@ Todo analista financeiro sabe que o corretor de ações tradicional não é mais
 
 Há muitas razões para essa mudança, mas talvez a maior seja simplesmente porque ele não pode mais digerir e analisar Big Data melhor que o software de análise predicativa.
 
-BLOCKCHAIN
+# Dashboard
+
+100% de transparência. Verifique os negócios mais recentes que nosso algoritmo está colocando em tempo real, ou nossas estatísticas de vida e rentabilidade. Tudo possível através dos nossos dados públicos.
+
+# BLOCKCHAIN
 
 Nós pegamos o que funciona do sistema financeiro do antigo mundo e removemos o que não.
 
 www.exbot.com.br
+
