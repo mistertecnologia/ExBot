@@ -29,5 +29,5 @@ https://exbot.com.br/public
 
 Nós pegamos o que funciona do sistema financeiro do antigo mundo e removemos o que não.
 
-www.exbot.com.br
+https://exbot.com.br/
 
