@@ -17,7 +17,7 @@ E é por isso que Big Data nos rodeia em todos os lugares. Por outras palavras, 
 
 Todo analista financeiro sabe que o corretor de ações tradicional não é mais suficiente.
 
-Há muitas razões para essa mudança, mas talvez a maior seja simplesmente porque ele não pode mais digerir e analisar Big Data melhor que o software de análise predicativa.
+Há muitas razões para essa mudança, mas talvez a maior seja simplesmente porque ele não pode mais digerir e analisar Big Data ao mesmo tempo que executa ordens de compra/venda, o software de análise predicativa faz tudo isso de forma automatizada.
 
 # Dashboard
 
