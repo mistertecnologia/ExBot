@@ -6,7 +6,9 @@ Estamos constantemente desenvolvendo e testando estratégias de negociação qua
 Nossa plataforma atual permite que qualquer pessoa, em qualquer lugar, execute um algoritmo de arbitragem estatística em criptografia.
 
 Como Funciona?
-Análise Algorítmica
+
+# Análise Algorítmica
+
 Parece que Deus finalmente decidiu que era hora de juntar-se a nós humanos insignificantes com o único idioma que eles entendem, a linguagem dos dados.
 
 E é por isso que Big Data nos rodeia em todos os lugares. Por outras palavras, são dados que nos cercam em todos os lugares neste vasto planeta que transformou esses dados simples em Dados GRANDES! Existem vários usos da Big Data para diferentes indústrias e muitos especialistas técnicos têm sido mais do que apenas vocais , sobre o quão útil é o Big Data.
