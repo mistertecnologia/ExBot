@@ -23,6 +23,8 @@ Há muitas razões para essa mudança, mas talvez a maior seja simplesmente porq
 
 100% de transparência. Verifique os negócios mais recentes que nosso algoritmo está colocando em tempo real, ou nossas estatísticas de vida e rentabilidade. Tudo possível através dos nossos dados públicos.
 
+https://exbot.com.br/public
+
 # BLOCKCHAIN
 
 Nós pegamos o que funciona do sistema financeiro do antigo mundo e removemos o que não.
